@@ -6,10 +6,27 @@
 
 <br></br>
 
-## 1일차: 2021.09.29
+## 📍 1일차: 2021.09.29
     
     교육과정
 
+- [앱의 구조와 동작 원리](https://github.com/coddang/iOS_BootCamp_SSAC/issues/1)
+- [Apple과 iOS의 특징](https://github.com/coddang/iOS_BootCamp_SSAC/issues/2)
+- [HIG(human-interface-guidelines)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/3)
+- [Xcode 프로젝트와 앱개발(iPad, iPhone, MacOS)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/4)
+- [IB(Interface Builder)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/5)
+- [Xcode Project File 구성](https://github.com/coddang/iOS_BootCamp_SSAC/issues/new)
+- [Error와 Swift Compile](https://github.com/coddang/iOS_BootCamp_SSAC/issues/7)
+- [SF Symbol](https://github.com/coddang/iOS_BootCamp_SSAC/issues/8)
+
 <br></br>
 
-## 2일차: 2021.09.29
+## 📍 2일차: 2021.09.29
+    
+    교육과정
+
+- [iOS 계층 구조](https://github.com/coddang/iOS_BootCamp_SSAC/issues/9)
+- [UIKit (UIView, UIViewController, UIFont, UIColor)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/10)
+- [UIView + On demand Drawing Model(ContentMode)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/11)
+- [앱 개발 트렌드(M1의 등장과 iOS, MAC, IPAD, tvOS)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/12)
+- [사이트 모음(컬러추천, 앱 에셋, APPICON E ETC)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/13)
