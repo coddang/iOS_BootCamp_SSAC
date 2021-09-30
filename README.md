@@ -19,6 +19,7 @@
 - [Error와 Swift Compile](https://github.com/coddang/iOS_BootCamp_SSAC/issues/7)
 - [SF Symbol](https://github.com/coddang/iOS_BootCamp_SSAC/issues/8)
 
+
 <br></br>
 
 ## 📍 2 일차: 2021.09.29
@@ -30,3 +31,23 @@
 - [UIView + On demand Drawing Model(ContentMode)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/11)
 - [앱 개발 트렌드(M1의 등장과 iOS, MAC, IPAD, tvOS)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/12)
 - [사이트 모음(컬러추천, 앱 에셋, APPICON E ETC)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/13)
+
+
+<br></br>
+
+## 📍 3 일차: 2021.09.30
+
+    교육과정
+
+- [스토리보드 XML확인](https://github.com/coddang/iOS_BootCamp_SSAC/issues/14)
+- [Swift Basic: 변수, 상수](https://github.com/coddang/iOS_BootCamp_SSAC/issues/15)
+- [Swift Basic: 오늘 내용 총 정리](https://github.com/coddang/iOS_BootCamp_SSAC/issues/16)
+- [Swift Basic: 열거형(enum: 네트워크 상태 구현)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/17)
+- [Swift Basic: 집단 자료형](https://github.com/coddang/iOS_BootCamp_SSAC/issues/18)
+- [Swift Basic: Array(배열 예제)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/19)
+- [Swift Basic: Dictionary(딕셔너리) 예제](https://github.com/coddang/iOS_BootCamp_SSAC/issues/20)
+- [Swift Basic: Set, Tuple](https://github.com/coddang/iOS_BootCamp_SSAC/issues/21)
+- [Xcode 실습: 코드(view, 키보드 내리기)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/22)
+
+
+<br></br>
