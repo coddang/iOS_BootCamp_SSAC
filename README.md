@@ -51,3 +51,15 @@
 
 
 <br></br>
+
+## 📍 4 일차: 2021.10.01
+
+    교육과정
+
+- [Xcode 다크모드: (다크모드 제거)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/23)
+- [Xcode 실습: 매개변수와 전달인자(Parameter, Argument) + 코드](https://github.com/coddang/iOS_BootCamp_SSAC/issues/24)
+- [Xcode 실습: Inspector 영역의 상속 구조](https://github.com/coddang/iOS_BootCamp_SSAC/issues/25)
+- []()
+
+
+<br></br>
