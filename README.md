@@ -74,8 +74,6 @@
 - [ViewController의 생명주기](https://github.com/coddang/iOS_BootCamp_SSAC/issues/29)
 - [NavigationController: 기초와 활용+](https://github.com/coddang/iOS_BootCamp_SSAC/issues/30)
 - [TabBarController 기초+ & NavigationController](https://github.com/coddang/iOS_BootCamp_SSAC/issues/32)
-- []()
-- []()
-- []()
+
 
 <br></br>
