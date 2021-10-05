@@ -64,7 +64,7 @@
 - [Xcode 실습: 매개변수와 전달인자(Parameter, Argument) + 코드](https://github.com/coddang/iOS_BootCamp_SSAC/issues/24)
 - [Xcode 실습: Inspector 영역의 상속 구조](https://github.com/coddang/iOS_BootCamp_SSAC/issues/25)
 - [Swift Basic: Function & Method 정리](https://github.com/coddang/iOS_BootCamp_SSAC/issues/26)
-
+- [TextField 글자 제한 기본](https://github.com/coddang/iOS_BootCamp_SSAC/issues/34)
 
 <br></br>
 
