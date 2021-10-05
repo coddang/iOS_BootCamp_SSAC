@@ -31,7 +31,7 @@
 - [UIView + On demand Drawing Model(ContentMode)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/11)
 - [앱 개발 트렌드(M1의 등장과 iOS, MAC, IPAD, tvOS)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/12)
 - [사이트 모음(컬러추천, 앱 에셋, APPICON E ETC)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/13)
-
+- [Xcode: Entry Point](https://github.com/coddang/iOS_BootCamp_SSAC/issues/27)
 
 <br></br>
 
