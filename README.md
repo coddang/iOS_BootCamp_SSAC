@@ -1,9 +1,12 @@
 # 📗 iOS BootCamp (SSAC) 
 
+**`과정소개`:** [SSAC 홈페이지](https://ssac.seoul.kr/course/active/detail.do)
+
+<br>
+
 ## SSAC iOS강의 내용과 과제를 정리하기 위한 저장소
 - (새)싹에서 배운 내용과 스스로 학습한 내용을 담아 최대한 작은 단위로 쪼개어 놓아 정리한 학습자료
 
-**`과정소개`:** [SSAC 홈페이지](https://ssac.seoul.kr/course/active/detail.do)
 
 <br></br>
 
@@ -74,6 +77,6 @@
 - [ViewController의 생명주기](https://github.com/coddang/iOS_BootCamp_SSAC/issues/29)
 - [NavigationController: 기초와 활용+](https://github.com/coddang/iOS_BootCamp_SSAC/issues/30)
 - [TabBarController 기초+ & NavigationController](https://github.com/coddang/iOS_BootCamp_SSAC/issues/32)
-
+- [Appliaction Life Cycle](https://github.com/coddang/iOS_BootCamp_SSAC/issues/33)
 
 <br></br>
