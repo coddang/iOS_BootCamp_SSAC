@@ -73,7 +73,7 @@
 - [Git: Xcode에서 Git Repo 생성, 커밋, 푸시](https://github.com/coddang/iOS_BootCamp_SSAC/issues/28)
 - [ViewController의 생명주기](https://github.com/coddang/iOS_BootCamp_SSAC/issues/29)
 - [NavigationController: 기초와 활용+](https://github.com/coddang/iOS_BootCamp_SSAC/issues/30)
-- []()
+- [TabBarController 기초+ & NavigationController](https://github.com/coddang/iOS_BootCamp_SSAC/issues/32)
 - []()
 - []()
 - []()
