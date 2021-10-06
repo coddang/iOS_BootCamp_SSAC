@@ -23,7 +23,6 @@
 - [Error와 Swift Compile](https://github.com/coddang/iOS_BootCamp_SSAC/issues/7)
 - [SF Symbol](https://github.com/coddang/iOS_BootCamp_SSAC/issues/8)
 
-
 <br></br>
 
 ## 📍 2 일차: 2021.09.29
@@ -68,7 +67,6 @@
 
 <br></br>
 
-
 ## 📍 5 일차: 2021.10.05(화)
 
     교육과정
@@ -78,5 +76,25 @@
 - [NavigationController: 기초와 활용+](https://github.com/coddang/iOS_BootCamp_SSAC/issues/30)
 - [TabBarController 기초+ & NavigationController](https://github.com/coddang/iOS_BootCamp_SSAC/issues/32)
 - [Appliaction Life Cycle](https://github.com/coddang/iOS_BootCamp_SSAC/issues/33)
+
+<br></br>
+
+## 📍 6 일차: 2021.10.06(수)
+
+    교육과정
+
+- [데이터 저장: UserDefaults](https://github.com/coddang/iOS_BootCamp_SSAC/issues/35)
+- [라이브러리 기초: 오픈소스의 이해/ 실습](https://github.com/coddang/iOS_BootCamp_SSAC/issues/36)
+- [화면전환: Unwind 방식](https://github.com/coddang/iOS_BootCamp_SSAC/issues/37)
+- [ViewController의 생명주기 (복습)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/38)
+
+
+<br></br>
+
+## 📍 7 일차: 2021.10.07(목)
+
+    교육과정
+
+- []()
 
 <br></br>
