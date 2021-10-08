@@ -104,6 +104,11 @@
 
     교육과정
 
-- []()
+- [Swift Syntax: function](https://github.com/coddang/iOS_BootCamp_SSAC/issues/42)
+- [시뮬레이션 기기 무선빌드 + plist Source Code](https://github.com/coddang/iOS_BootCamp_SSAC/issues/41)
+- [Swift Syntax: Tuple](https://github.com/coddang/iOS_BootCamp_SSAC/issues/43)
+- [Swift Syntax: Enumeration 2 + Switch](https://github.com/coddang/iOS_BootCamp_SSAC/issues/44)
+- [Alert: 알람 기초 코드](https://github.com/coddang/iOS_BootCamp_SSAC/issues/45)
+- [Notification: 알림기능 기초](https://github.com/coddang/iOS_BootCamp_SSAC/issues/46)
 
 <br></br>
