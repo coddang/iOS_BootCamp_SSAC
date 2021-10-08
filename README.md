@@ -95,6 +95,15 @@
 
     교육과정
 
+- [Swift Syntax: Class 1](https://github.com/coddang/iOS_BootCamp_SSAC/issues/39)
+- [Swift Syntax: Class 2](https://github.com/coddang/iOS_BootCamp_SSAC/issues/40)
+
+<br></br>
+
+## 📍 8 일차: 2021.10.08(금)
+
+    교육과정
+
 - []()
 
 <br></br>
