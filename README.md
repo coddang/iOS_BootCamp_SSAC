@@ -112,3 +112,14 @@
 - [Notification: 알림기능 기초](https://github.com/coddang/iOS_BootCamp_SSAC/issues/46)
 
 <br></br>
+
+
+## 📍 9 일차: 2021.10.12(화)
+
+    교육과정: TableView Basic
+
+- [Swift TableView Basic 1](https://github.com/coddang/iOS_BootCamp_SSAC/issues/47)
+- [Swift TableView Basic 2](https://github.com/coddang/iOS_BootCamp_SSAC/issues/48)
+- [Constrain to margins](https://github.com/coddang/iOS_BootCamp_SSAC/issues/49)
+
+<br></br>
