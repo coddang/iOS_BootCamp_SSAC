@@ -131,5 +131,6 @@
 
 - [Swift Syntax: Class 에 대한 모든 것 1](https://github.com/coddang/iOS_BootCamp_SSAC/issues/50)
 - [Swift Syntax: Class 에 대한 모든 것 2](https://github.com/coddang/iOS_BootCamp_SSAC/issues/51)
+- [Swift Syntax: 오늘자 수업(프로퍼티 옵저버, 타입 케스팅, 가드문)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/52)
 
 <br></br>
