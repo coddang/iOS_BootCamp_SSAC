@@ -123,3 +123,13 @@
 - [Constrain to margins](https://github.com/coddang/iOS_BootCamp_SSAC/issues/49)
 
 <br></br>
+
+
+## 📍 10 일차: 2021.10.13(수)
+
+    교육과정:
+
+- [Swift Syntax: Class 에 대한 모든 것 1](https://github.com/coddang/iOS_BootCamp_SSAC/issues/50)
+- [Swift Syntax: Class 에 대한 모든 것 2](https://github.com/coddang/iOS_BootCamp_SSAC/issues/51)
+
+<br></br>
