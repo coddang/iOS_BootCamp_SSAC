@@ -134,3 +134,13 @@
 - [Swift Syntax: 오늘자 수업(프로퍼티 옵저버, 타입 케스팅, 가드문)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/52)
 
 <br></br>
+
+
+## 📍 11 일차: 2021.10.14(목)
+
+    교육과정:
+
+- [TableView Cell AutomaticDimension](https://github.com/coddang/iOS_BootCamp_SSAC/issues/53)
+
+
+<br></br>
