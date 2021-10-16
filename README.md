@@ -141,6 +141,19 @@
     교육과정:
 
 - [TableView Cell AutomaticDimension](https://github.com/coddang/iOS_BootCamp_SSAC/issues/53)
+- [Segmented Control + enum + struct 활용](https://github.com/coddang/iOS_BootCamp_SSAC/issues/54)
+- [TableViewCell identifier 명시적으로 사용](https://github.com/coddang/iOS_BootCamp_SSAC/issues/55)
+- [Static 사용 예제](https://github.com/coddang/iOS_BootCamp_SSAC/issues/56)
+- [UserDefaults 싱글톤 예제](https://github.com/coddang/iOS_BootCamp_SSAC/issues/57)
+
+<br></br>
+
+
+## 📍 11 일차: 2021.10.15(금)
+
+    교육과정:
+
+- []()
 
 
 <br></br>
