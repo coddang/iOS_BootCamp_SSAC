@@ -145,6 +145,8 @@
 - [TableViewCell identifier 명시적으로 사용](https://github.com/coddang/iOS_BootCamp_SSAC/issues/55)
 - [Static 사용 예제](https://github.com/coddang/iOS_BootCamp_SSAC/issues/56)
 - [UserDefaults 싱글톤 예제](https://github.com/coddang/iOS_BootCamp_SSAC/issues/57)
+- [TableViewCell의 내용 UserDefaults 로 저장](https://github.com/coddang/iOS_BootCamp_SSAC/issues/58)
+
 
 <br></br>
 
@@ -153,7 +155,11 @@
 
     교육과정:
 
-- []()
-
+- [NavigationItem 추가와 popViewController](https://github.com/coddang/iOS_BootCamp_SSAC/issues/59)
+- [화면 전환의 특성](https://github.com/coddang/iOS_BootCamp_SSAC/issues/60)
+- [MainStoryBoard 설정](https://github.com/coddang/iOS_BootCamp_SSAC/issues/61)
+- [TextView 의 Placeholder 편법 (with Delegate Pattern)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/62)
+- [TextField에 inputView로 DataPicker 넣기](https://github.com/coddang/iOS_BootCamp_SSAC/issues/63)
+- [기타 수업 구현 코드](https://github.com/coddang/iOS_BootCamp_SSAC/issues/64)
 
 <br></br>
