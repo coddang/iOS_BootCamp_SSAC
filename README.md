@@ -168,8 +168,8 @@
 
     교육과정:
 
--[Storyboard Reference](https://github.com/coddang/iOS_BootCamp_SSAC/issues/65)
--[XIB TableViewCell](https://github.com/coddang/iOS_BootCamp_SSAC/issues/66)
--[Protocol (프로토콜)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/67)
+- [Storyboard Reference](https://github.com/coddang/iOS_BootCamp_SSAC/issues/65)
+- [XIB TableViewCell](https://github.com/coddang/iOS_BootCamp_SSAC/issues/66)
+- [Protocol (프로토콜)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/67)
 
 <br></br>
