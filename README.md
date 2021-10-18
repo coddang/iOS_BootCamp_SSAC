@@ -163,3 +163,13 @@
 - [기타 수업 구현 코드](https://github.com/coddang/iOS_BootCamp_SSAC/issues/64)
 
 <br></br>
+
+## 📍 12 일차: 2021.10.18 (월)
+
+    교육과정:
+
+-[Storyboard Reference](https://github.com/coddang/iOS_BootCamp_SSAC/issues/65)
+-[XIB TableViewCell](https://github.com/coddang/iOS_BootCamp_SSAC/issues/66)
+-[Protocol (프로토콜)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/67)
+
+<br></br>
