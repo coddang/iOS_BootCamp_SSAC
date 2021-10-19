@@ -173,3 +173,20 @@
 - [Protocol (프로토콜)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/67)
 
 <br></br>
+
+## 📍 13 일차: 2021.10.19 (화)
+
+    교육과정:
+
+- [Raw String](https://github.com/coddang/iOS_BootCamp_SSAC/issues/68)
+- [ATS(App Transport Security)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/69)
+- [무엇이, 어디에, 보여지는가 ios12,13,14변화 (Data, Layout, Presentation)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/70)
+- [컬렉션 뷰 초기 셋팅: CollectionView Setting](https://github.com/coddang/iOS_BootCamp_SSAC/issues/71)
+- [컬렉션 뷰 레이아웃 팁](https://github.com/coddang/iOS_BootCamp_SSAC/issues/72)
+- [스토리 보드 하나에 콜렉션 뷰 2개 연결하는 2가지 방법](https://github.com/coddang/iOS_BootCamp_SSAC/issues/73)
+- [콜렉션 뷰 2개, 여기까지 코드 전문](https://github.com/coddang/iOS_BootCamp_SSAC/issues/74)
+- [시스템 아이콘 (버튼) 크기조정 방법 2가지](https://github.com/coddang/iOS_BootCamp_SSAC/issues/75)
+- [CollectionView에 Button 넣기 + reloadItems(at: )](https://github.com/coddang/iOS_BootCamp_SSAC/issues/76)
+- [WebKit 맛보기](https://github.com/coddang/iOS_BootCamp_SSAC/issues/77)
+
+<br></br>
