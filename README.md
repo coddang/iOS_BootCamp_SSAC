@@ -190,3 +190,12 @@
 - [WebKit 맛보기](https://github.com/coddang/iOS_BootCamp_SSAC/issues/77)
 
 <br></br>
+
+## 📍 14 일차: 2021.10.20 (수)
+
+    교육과정:
+
+- [Privacy & Authorization (개인 정보 보호와 인증)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/78)
+- [MapKit 기초 실습](https://github.com/coddang/iOS_BootCamp_SSAC/issues/79)
+
+<br></br>
