@@ -206,6 +206,7 @@
 
 - [plist 동의 인증(카메라, 포토, 동영상)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/80)
 - [Swift Syntax: Closure(클로저)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/81)
+- [설정창 이동 (Feat. Alert)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/82)
 
 <br></br>
 
@@ -213,7 +214,17 @@
 
     교육과정:
 
-- []()
-- []()
+- [오토레이아웃 실습 기본 강의](https://github.com/coddang/iOS_BootCamp_SSAC/issues/83)
+- [오토레이아웃(Hugging Priority)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/84)
+- [오토레이아웃 랜드스케이프 변경 대응](https://github.com/coddang/iOS_BootCamp_SSAC/issues/85)
+- [Container View + NSLayoutConstraint](https://github.com/coddang/iOS_BootCamp_SSAC/issues/86)
+
+<br></br>
+
+
+## 📍 17 일차: 2021.10.25 (월)
+
+    교육과정:
+
 
 <br></br>
