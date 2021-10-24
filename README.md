@@ -204,6 +204,15 @@
 
     교육과정:
 
+- [plist 동의 인증(카메라, 포토, 동영상)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/80)
+- [Swift Syntax: Closure(클로저)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/81)
+
+<br></br>
+
+## 📍 16 일차: 2021.10.22 (금)
+
+    교육과정:
+
 - []()
 - []()
 
