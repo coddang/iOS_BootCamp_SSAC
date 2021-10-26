@@ -226,5 +226,14 @@
 
     교육과정:
 
+- [네트워크 통신 기초 (+ 사용할 API 사이트)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/87)
+
+<br></br>
+
+## 📍 18 일차: 2021.10.26 (화)
+
+    교육과정:
+
+- []()
 
 <br></br>
