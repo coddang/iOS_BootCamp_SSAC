@@ -234,6 +234,8 @@
 
     교육과정:
 
-- []()
+- [HTTP & Socket 통신 개념](https://github.com/coddang/iOS_BootCamp_SSAC/issues/88)
+- [REST API 개념 총정리](https://github.com/coddang/iOS_BootCamp_SSAC/issues/89)
+- [URL 구조](https://github.com/coddang/iOS_BootCamp_SSAC/issues/90)
 
 <br></br>
