@@ -239,3 +239,24 @@
 - [URL 구조](https://github.com/coddang/iOS_BootCamp_SSAC/issues/90)
 
 <br></br>
+
+## 📍 19 일차: 2021.10.27 (수)
+
+    교육과정:
+
+- [API 매니저를 통한 RESTful 네트워크 통신 과정 1](https://github.com/coddang/iOS_BootCamp_SSAC/issues/91)
+- [네트워크 파일 전송 과정 (Feat. Alamofire, HTTP Header)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/92)
+- [사용자의 스크롤 시점과 서버 통신 (Pagenation)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/93)
+
+<br></br>
+
+## 📍 20 일차: 2021.10.28 (목)
+
+    교육과정:
+
+- [JGProgressHUD 라이브러리 사용](https://github.com/coddang/iOS_BootCamp_SSAC/issues/94)
+- [카메라, 앨범 열기 (Feat. 카메라, 앨범 관련 권한과 방법)](https://github.com/coddang/iOS_BootCamp_SSAC/issues/95)
+- [UISearchBar ( UISearchBarDelegate Protocol )](https://github.com/coddang/iOS_BootCamp_SSAC/issues/96)
+- [Swift Syntax: 고차함수 + 네트워크에서의 활용 ](https://github.com/coddang/iOS_BootCamp_SSAC/issues/97)
+
+<br></br>
